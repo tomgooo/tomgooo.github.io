@@ -189,6 +189,14 @@
     </span>
 
   
+    <span id="/2021/04/12/test-my-site/" class="post-meta-item twikoo_visitors" data-flag-title="test_my_site" title="Views">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span id="twikoo_visitors"></span>
+    </span>
+  
 </div>
 
         </div>
@@ -229,7 +237,8 @@
 
 
 
-<script src="/js/comments.js"></script>
+
+    <div class="comments"><div id="twikoo-comments"></div></div><script src="/js/comments.js"></script>
 </div>
   </main>
 
@@ -267,6 +276,15 @@
 
 
 
+<script>
+NexT.utils.loadComments('#twikoo-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js', () => {
+    twikoo.init(Object.assign({"enable":true,"visitor":true,"envId":"test-cloud-1-3gq9zmhk5a4c3fc4"}, {
+      el: '#twikoo-comments'
+    }));
+  }, window.twikoo);
+});
+</script>
 
 </body>
 </html>

@@ -230,6 +230,15 @@
 
 
 
+<script>
+NexT.utils.loadComments('#twikoo-comments', () => {
+  NexT.utils.getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js', () => {
+    twikoo.init(Object.assign({"enable":true,"visitor":true,"envId":"test-cloud-1-3gq9zmhk5a4c3fc4"}, {
+      el: '#twikoo-comments'
+    }));
+  }, window.twikoo);
+});
+</script>
 
 </body>
 </html>
