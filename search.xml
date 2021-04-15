@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>test2</title>
+      <link href="2021/04/15/test2/"/>
+      <url>2021/04/15/test2/</url>
+      
+        <content type="html"><![CDATA[<p> just for test you know that?</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test1</title>
       <link href="2021/04/14/test1/"/>
       <url>2021/04/14/test1/</url>
