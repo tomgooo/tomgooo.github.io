@@ -3,11 +3,11 @@
   <title>振兴</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://tomgooo.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-04-15T09:18:01.221Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://tomgooo.github.io/"/>
+  <updated>2021-04-17T15:11:53.354Z</updated>
+  <id>http://tomgooo.github.io/</id>
   
   <author>
     <name>tomgooo</name>
@@ -17,36 +17,82 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test2</title>
-    <link href="http://example.com/2021/04/15/test2/"/>
-    <id>http://example.com/2021/04/15/test2/</id>
-    <published>2021-04-15T09:05:00.000Z</published>
-    <updated>2021-04-15T09:18:01.221Z</updated>
+    <title>test4</title>
+    <link href="http://tomgooo.github.io/2021/04/17/test4/"/>
+    <id>http://tomgooo.github.io/2021/04/17/test4/</id>
+    <published>2021-04-17T14:54:42.000Z</published>
+    <updated>2021-04-17T15:11:53.354Z</updated>
     
-    <content type="html"><![CDATA[<p> just for test you know that?</p>]]></content>
+    <content type="html"><![CDATA[<p> 阿斯蒂芬</p><img src="/2021/04/17/test4/test4\wang.jpeg" style="zoom:50%;">]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt; just for test you know that?&lt;/p&gt;
+    <summary type="html">&lt;p&gt; 阿斯蒂芬&lt;/p&gt;
+&lt;img src=&quot;/2021/04/17/test4/test4\wang.jpeg&quot; style=&quot;zoom:50%;&quot;&gt;
+
 </summary>
       
     
     
     
     
-    <category term="test" scheme="http://example.com/tags/test/"/>
+    <category term="test" scheme="http://tomgooo.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test3</title>
+    <link href="http://tomgooo.github.io/2021/04/17/est3/"/>
+    <id>http://tomgooo.github.io/2021/04/17/est3/</id>
+    <published>2021-04-17T14:51:35.000Z</published>
+    <updated>2021-04-17T14:51:40.195Z</updated>
+    
+    <content type="html"><![CDATA[<p>abc</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;abc&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="http://tomgooo.github.io/2021/04/15/test2/"/>
+    <id>http://tomgooo.github.io/2021/04/15/test2/</id>
+    <published>2021-04-15T09:05:00.000Z</published>
+    <updated>2021-04-17T14:18:23.223Z</updated>
+    
+    <content type="html"><![CDATA[<p>just for test you know that?</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;just for test you know that?&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="http://tomgooo.github.io/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>test1</title>
-    <link href="http://example.com/2021/04/14/test1/"/>
-    <id>http://example.com/2021/04/14/test1/</id>
+    <link href="http://tomgooo.github.io/2021/04/14/test1/"/>
+    <id>http://tomgooo.github.io/2021/04/14/test1/</id>
     <published>2021-04-14T03:04:38.000Z</published>
-    <updated>2021-04-14T03:18:14.015Z</updated>
+    <updated>2021-04-17T14:28:43.679Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>   阿斯顿发送到法尔范 阿斯顿发额啊撒</p><blockquote><ol><li>奥尔菲斯的封面 阿斯顿发额</li></ol></blockquote><p> 阿尔发生</p><blockquote><ol><li>阿斯顿发违法</li><li>阿斯顿发文</li></ol></blockquote><img src="C:\Users\99703\Desktop\2.png" style="zoom:33%;" /><p>胜多负少发阿瑟发奥恩阿斯顿发额</p><table><thead><tr><th>卢本伟</th><th>手动阀</th><th>大风撒</th></tr></thead><tbody><tr><td>阿斯蒂芬</td><td>都访问</td><td>染发锕地方暗示</td></tr><tr><td>全微分</td><td>法尔范</td><td>Freya</td></tr><tr><td>仁丰围</td><td>大卫</td><td>飞娃儿打算</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<hr><p>   阿斯顿发送到法尔范 阿斯顿发额啊撒</p><blockquote><ol><li>奥尔菲斯的封面 阿斯顿发额</li></ol></blockquote><p> 阿尔发生</p><blockquote><ol><li>阿斯顿发违法</li><li>阿斯顿发文</li></ol></blockquote><p><img src="/2021/04/14/test1/blog\blog\source_posts\1.jpg"></p><p>胜多负少发阿瑟发奥恩阿斯顿发额</p><table><thead><tr><th>卢本伟</th><th>手动阀</th><th>大风撒</th></tr></thead><tbody><tr><td>阿斯蒂芬</td><td>都访问</td><td>染发锕地方暗示</td></tr><tr><td>全微分</td><td>法尔范</td><td>Freya</td></tr><tr><td>仁丰围</td><td>大卫</td><td>飞娃儿打算</td></tr></tbody></table>]]></content>
     
     
       
@@ -67,14 +113,14 @@
     
     
     
-    <category term="哈哈哈" scheme="http://example.com/tags/%E5%93%88%E5%93%88%E5%93%88/"/>
+    <category term="哈哈哈" scheme="http://tomgooo.github.io/tags/%E5%93%88%E5%93%88%E5%93%88/"/>
     
   </entry>
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://example.com/2021/04/12/test-my-site/"/>
-    <id>http://example.com/2021/04/12/test-my-site/</id>
+    <link href="http://tomgooo.github.io/2021/04/12/test-my-site/"/>
+    <id>http://tomgooo.github.io/2021/04/12/test-my-site/</id>
     <published>2021-04-12T07:29:33.000Z</published>
     <updated>2021-04-12T07:29:33.859Z</updated>
     
@@ -86,8 +132,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/04/12/hello-world/"/>
-    <id>http://example.com/2021/04/12/hello-world/</id>
+    <link href="http://tomgooo.github.io/2021/04/12/hello-world/"/>
+    <id>http://tomgooo.github.io/2021/04/12/hello-world/</id>
     <published>2021-04-12T07:18:12.258Z</published>
     <updated>2021-04-12T07:18:12.258Z</updated>
     

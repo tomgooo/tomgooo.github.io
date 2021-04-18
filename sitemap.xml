@@ -2,28 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/04/15/test2/</loc>
+    <loc>http://tomgooo.github.io/2021/04/17/test4/</loc>
     
-    <lastmod>2021-04-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/04/14/test1/</loc>
-    
-    <lastmod>2021-04-14</lastmod>
+    <lastmod>2021-04-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/04/12/test-my-site/</loc>
+    <loc>http://tomgooo.github.io/2021/04/17/est3/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/2021/04/14/test1/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/2021/04/15/test2/</loc>
+    
+    <lastmod>2021-04-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/2021/04/12/test-my-site/</loc>
     
     <lastmod>2021-04-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/04/12/hello-world/</loc>
+    <loc>http://tomgooo.github.io/2021/04/12/hello-world/</loc>
     
     <lastmod>2021-04-12</lastmod>
     
@@ -31,23 +45,23 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2021-04-15</lastmod>
+    <loc>http://tomgooo.github.io/</loc>
+    <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E5%93%88%E5%93%88%E5%93%88/</loc>
-    <lastmod>2021-04-15</lastmod>
+    <loc>http://tomgooo.github.io/tags/%E5%93%88%E5%93%88%E5%93%88/</loc>
+    <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
-    <lastmod>2021-04-15</lastmod>
+    <loc>http://tomgooo.github.io/tags/test/</loc>
+    <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
