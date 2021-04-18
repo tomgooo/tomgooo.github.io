@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tomgooo.github.io/2021/04/18/The-whole-new-test-page/</loc>
+    
+    <lastmod>2021-04-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tomgooo.github.io/2021/04/18/jesus/</loc>
     
     <lastmod>2021-04-18</lastmod>
@@ -60,14 +67,14 @@
 
   
   <url>
-    <loc>http://tomgooo.github.io/tags/%E5%93%88%E5%93%88%E5%93%88/</loc>
+    <loc>http://tomgooo.github.io/tags/test/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/tags/test/</loc>
+    <loc>http://tomgooo.github.io/tags/%E5%93%88%E5%93%88%E5%93%88/</loc>
     <lastmod>2021-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
