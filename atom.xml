@@ -6,7 +6,7 @@
   <link href="http://tomgooo.github.io/atom.xml" rel="self"/>
   
   <link href="http://tomgooo.github.io/"/>
-  <updated>2021-04-17T15:11:53.354Z</updated>
+  <updated>2021-04-18T03:18:10.040Z</updated>
   <id>http://tomgooo.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jesus</title>
+    <link href="http://tomgooo.github.io/2021/04/18/jesus/"/>
+    <id>http://tomgooo.github.io/2021/04/18/jesus/</id>
+    <published>2021-04-18T03:09:48.000Z</published>
+    <updated>2021-04-18T03:18:10.040Z</updated>
+    
+    <content type="html"><![CDATA[<p>哥哥</p><p>哥哥们好鸭~</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;哥哥&lt;/p&gt;
+
+&lt;p&gt;哥哥们好鸭~&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test4</title>
