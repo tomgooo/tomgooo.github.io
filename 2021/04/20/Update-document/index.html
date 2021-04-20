@@ -1,13 +1,13 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>更新日志 | 天 问</title><meta name="keywords" content="development"><meta name="author" content="tomgooo"><meta name="copyright" content="tomgooo"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="更新日志  1.取消了文章转载证书的开启2.网页已运行时间3.字体大小4.主頁文章日期是創建日或者更新日或都顯示5.导航菜单6.社交图标7.主页顶部图，标签顶部图8.已设置CDN为三份静态图片的地址，图片正常加载9.侧边follow me 的链接10.已设置日历11.网站标签小图标已通过https:&#x2F;&#x2F;sm.ms  CDN外置图片链接设置，但不知为何导入public&#x2F;img的文件clean后被">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>更新日志 | 天 问</title><meta name="keywords" content="development"><meta name="author" content="tomgooo"><meta name="copyright" content="tomgooo"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="更新日志  1.取消了文章转载证书的开启2.网页已运行时间3.字体大小4.实现了主页显示文章创建日期以及更新日期的功能5.导航菜单第一次重新编排6.社交图标7.主页顶部图，标签顶部图8.已设置CDN为三份静态图片的地址，图片正常加载9.侧边follow me 的链接10.已设置submit日历，实现submit日期数据可视化11.网站标签小图标已通过https:&#x2F;&#x2F;sm.ms  CDN外置图片">
 <meta property="og:type" content="article">
 <meta property="og:title" content="更新日志">
 <meta property="og:url" content="http://tomgooo.github.io/2021/04/20/Update-document/index.html">
 <meta property="og:site_name" content="天 问">
-<meta property="og:description" content="更新日志  1.取消了文章转载证书的开启2.网页已运行时间3.字体大小4.主頁文章日期是創建日或者更新日或都顯示5.导航菜单6.社交图标7.主页顶部图，标签顶部图8.已设置CDN为三份静态图片的地址，图片正常加载9.侧边follow me 的链接10.已设置日历11.网站标签小图标已通过https:&#x2F;&#x2F;sm.ms  CDN外置图片链接设置，但不知为何导入public&#x2F;img的文件clean后被">
+<meta property="og:description" content="更新日志  1.取消了文章转载证书的开启2.网页已运行时间3.字体大小4.实现了主页显示文章创建日期以及更新日期的功能5.导航菜单第一次重新编排6.社交图标7.主页顶部图，标签顶部图8.已设置CDN为三份静态图片的地址，图片正常加载9.侧边follow me 的链接10.已设置submit日历，实现submit日期数据可视化11.网站标签小图标已通过https:&#x2F;&#x2F;sm.ms  CDN外置图片">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/space.jpg">
 <meta property="article:published_time" content="2021-04-20T01:06:21.000Z">
-<meta property="article:modified_time" content="2021-04-20T06:16:26.956Z">
+<meta property="article:modified_time" content="2021-04-20T09:19:53.110Z">
 <meta property="article:author" content="tomgooo">
 <meta property="article:tag" content="development">
 <meta name="twitter:card" content="summary">
@@ -57,7 +57,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: true,
-  postUpdate: '2021-04-20 14:16:26'
+  postUpdate: '2021-04-20 17:19:53'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -145,11 +145,11 @@
       document.documentElement.style.setProperty('--global-font-size', fontSizeVal + 'px')
     }
     })(window)</script><!-- hexo injector head_end start --><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Zfour/hexo-electric-clock@1.0.6/clock.css"><!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/atom.xml" title="天 问" type="application/atom+xml">
-</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" src="/img/wang.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">10</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">天 问</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">更新日志</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-04-20T01:06:21.000Z" title="发表于 2021-04-20 09:06:21">2021-04-20</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-04-20T06:16:26.956Z" title="更新于 2021-04-20 14:16:26">2021-04-20</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">674</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>2分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="更新日志"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><hr>
+</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="author-avatar"><img class="avatar-img" src="/img/wang.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">10</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">标签</div><div class="length-num">4</div></a></div></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">天 问</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">更新日志</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2021-04-20T01:06:21.000Z" title="发表于 2021-04-20 09:06:21">2021-04-20</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2021-04-20T09:19:53.110Z" title="更新于 2021-04-20 17:19:53">2021-04-20</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-wordcount"><i class="far fa-file-word fa-fw post-meta-icon"></i><span class="post-meta-label">字数总计:</span><span class="word-count">793</span><span class="post-meta-separator">|</span><i class="far fa-clock fa-fw post-meta-icon"></i><span class="post-meta-label">阅读时长:</span><span>3分钟</span></span><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="更新日志"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><hr>
 <ul>
 <li><h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a><strong>更新日志</strong></h3></li>
 </ul>
-<p>1.取消了文章转载证书的开启<br>2.网页已运行时间<br>3.字体大小<br>4.主頁文章日期是創建日或者更新日或都顯示<br>5.导航菜单<br>6.社交图标<br>7.主页顶部图，标签顶部图<br>8.已设置CDN为三份静态图片的地址，图片正常加载<br>9.侧边follow me 的链接<br>10.已设置日历<br>11.网站标签小图标已通过<a target="_blank" rel="noopener" href="https://sm.ms/">https://sm.ms</a>  CDN外置图片链接设置，但不知为何导入public/img的文件clean后被删，同时导入.deploy_git/img后图标未消失，但生成的public文件依然不包含baokemeng.png<br> *11.1网站标签小图标已通过jsdelivr CDN外置图片链接设置，同时在github图床中增添了新的1.1版本图片，导入了更多壁纸<br>12.创建标签页面，任何打上标签的文章都可以被检索<br>13.实现读取ip地址，时间，地点，天气并集成为可视化界面<br>14.实现字数统计，并为其设定函数以换算为阅读所需时间<br>15.实现副标题“打字输入效果“，同时调整了以转义字符作为标点的展示方案</p>
+<p>1.取消了文章转载证书的开启<br>2.网页已运行时间<br>3.字体大小<br>4.实现了主页显示文章创建日期以及更新日期的功能<br>5.导航菜单第一次重新编排<br>6.社交图标<br>7.主页顶部图，标签顶部图<br>8.已设置CDN为三份静态图片的地址，图片正常加载<br>9.侧边follow me 的链接<br>10.已设置submit日历，实现submit日期数据可视化<br>11.网站标签小图标已通过<a target="_blank" rel="noopener" href="https://sm.ms/">https://sm.ms</a>  CDN外置图片链接设置，但不知为何导入public/img的文件clean后被删，同时导入.deploy_git/img后图标未消失，但生成的public文件依然不包含baokemeng.png<br>   *11.1网站标签小图标已通过jsdelivr CDN外置图片链接设置，同时在github图床中增添了新的1.1版本图片，导入了更多壁纸<br>12.创建标签页面，任何打上标签的文章都可以被检索<br>13.实现读取ip地址，时间，地点，所在地天气并集成为数据可视化界面<br>14.实现字数统计，并为其设定函数以换算为阅读所需时间<br>15.实现副标题“打字输入效果“，同时调整了以转义字符作为标点的展示方案<br>16.实现点击一次鼠标即可切换一次背景线条图形，并设立函数随机生成色彩三角几何线条<br>17.通过阿里提供的图标美化了序号的表现方式，同时设立对应函数</p>
 <ul>
 <li><h3 id="目标-amp-问题"><a href="#目标-amp-问题" class="headerlink" title="目标 &amp;问题"></a><strong>目标 &amp;问题</strong></h3></li>
 </ul>
@@ -178,7 +178,7 @@
 <td>f.网站标签小图标未设置  ✔</td>
 </tr>
 <tr>
-<td>g.设置哔哩哔哩链接 ✔</td>
+<td>g.设置哔哩哔哩链接与图标 ×</td>
 </tr>
 <tr>
 <td>h.未设置多个图片的CDN地址以供选择 ✔</td>
@@ -187,7 +187,7 @@
 <td>I.未设置语雀云端富文本编写方式 ×</td>
 </tr>
 <tr>
-<td>j.设置说说动态  ×</td>
+<td>j.设置“说说动态“  ×</td>
 </tr>
 <tr>
 <td>k.设置“格言”  ✔</td>
@@ -199,10 +199,19 @@
 <td>m.数据可视化 × <a target="_blank" rel="noopener" href="https://weilining.github.io/230.html">https://weilining.github.io/230.html</a></td>
 </tr>
 <tr>
-<td>n.数据可视化 × <a target="_blank" rel="noopener" href="https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/">https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/</a></td>
+<td>n.思维导图数据可视化编辑 × <a target="_blank" rel="noopener" href="https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/">https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/</a></td>
 </tr>
 <tr>
-<td>o.</td>
+<td>o.数学符号，公式输入！！  ×<a target="_blank" rel="noopener" href="http://www.wiris.com/editor/demo/en/developers">http://www.wiris.com/editor/demo/en/developers</a></td>
+</tr>
+<tr>
+<td>p.</td>
+</tr>
+<tr>
+<td>q.</td>
+</tr>
+<tr>
+<td>r.</td>
 </tr>
 </tbody></table>
 <ul>
@@ -271,7 +280,7 @@
       loadTwikoo()
     }
   }
-})()</script></div><script>((window.gitter = {}).chat = {}).options = {
+})()</script></div><script defer="defer" id="ribbon" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/canvas-ribbon.min.js" size="150" alpha="0.6" zIndex="-1" mobile="false" data-click="true"></script><script>((window.gitter = {}).chat = {}).options = {
   disableDefaultChat: true,
 };
 document.addEventListener('gitter-sidecar-ready', (e) => {
