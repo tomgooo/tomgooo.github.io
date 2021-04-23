@@ -6,7 +6,7 @@
   <link href="http://tomgooo.github.io/atom.xml" rel="self"/>
   
   <link href="http://tomgooo.github.io/"/>
-  <updated>2021-04-23T03:10:03.991Z</updated>
+  <updated>2021-04-23T15:31:51.872Z</updated>
   <id>http://tomgooo.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>experience-of-sing</title>
+    <link href="http://tomgooo.github.io/2021/04/23/experience-of-sing/"/>
+    <id>http://tomgooo.github.io/2021/04/23/experience-of-sing/</id>
+    <published>2021-04-23T15:25:25.000Z</published>
+    <updated>2021-04-23T15:31:51.872Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>  2021-04-23唱歌时发现下巴微微前倾，提笑肌，用锁骨中间的小窝唱歌很轻松，中高音能上去</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;  2021-04-23唱歌时发现下巴微微前倾，提笑肌，用锁骨中间的小窝唱歌很轻松，中高音能上去&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="http://tomgooo.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="唱歌" scheme="http://tomgooo.github.io/tags/%E5%94%B1%E6%AD%8C/"/>
+    
+    <category term="生活" scheme="http://tomgooo.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>题目来源及原始数据</title>
     <link href="http://tomgooo.github.io/2021/04/23/About-paper/"/>
     <id>http://tomgooo.github.io/2021/04/23/About-paper/</id>
     <published>2021-04-23T02:46:51.000Z</published>
-    <updated>2021-04-23T03:10:03.991Z</updated>
+    <updated>2021-04-23T15:27:20.888Z</updated>
     
     <content type="html"><![CDATA[<hr><ul><li><h3 id="题目来源"><a href="#题目来源" class="headerlink" title="题目来源"></a>题目来源</h3><p>  早前开发项目时，本人通过对实现web网站从部署到正式上线，检索到市面上提供的各色各类云服务，感受到云服务市场的蓬勃发展，意识到云技术相关的掌握与运用对于开发者来说在未来占据相当份量的地位，同时对新技术产生了浓厚的兴趣。例如，国际研究机构gartner发布2020年全球云计算IaaS市场追踪数据。2020年，全球云计算市场保持高速增长，IaaS市场规模达642.86亿美元，同比增长40.7%。腾讯官方数据显示，2020年基于云开发的注册用户数达到56万，较去年同期增长1.5倍，服务超过100万开发者，日调用次数超过7亿。根据上述几点认识，希望通过基于云服务平台的blog设计与实现，来实践运用云计算相关知识，实现自我提升。</p></li></ul><img src="/.io//04/23/About-paper/tencent-cloud.jpeg" class title="avatar"><ul><li><h3 id="腾讯"><a href="#腾讯" class="headerlink" title="腾讯"></a>腾讯</h3><p><strong>表示站在腾讯的角度看软硬件一体化、Serverless（无服务器）、智能化将是未来产业的发展方向。</strong></p><p><strong>腾讯大数据平台这10年来从以Hadoop为基础做离线计算的整合到如今自主开发Angel分布式机器学习平台日接入数据量35万亿条的技术演进历程。</strong></p></li><li><h3 id="云技术发展的三个趋势："><a href="#云技术发展的三个趋势：" class="headerlink" title="云技术发展的三个趋势："></a>云技术发展的三个趋势：</h3></li></ul><ol><li><p><strong>首先是软硬一体化。</strong></p><p><strong>随着云端所承载的业务规模越来越大，面向未来，更加高效的算力、更加低成本的存储一定是大势所趋，而在这一基础之上，硬件设计云原生也就是软硬件一体结合也成为了一个需要不断探索的方向</strong>。这对于开发者而言，可以为他们提供更坚实的基础设施平台以及更好的云计算性能并提高资源利用率。</p></li><li><p><strong>第二个是Serverless（无服务器），作为一种新型的软件设计架构正在快速崛起。</strong></p><p>作为继虚拟机、容器后的第三代通用计算平台，Serverless技术也一直是腾讯云原生的重点发力领域。它可以将开发者从繁琐、冗杂的开发配置工作中解放出来，不需要任何的基础设施建设、管理与运维，极大降低了开发门槛，而只需关注自己的业务逻辑。</p><p>以腾讯云和微信联合推出的“小程序·云开发”为例，目前它实现了小程序开发的Serverless，上线一年至今，已经有超过了50万的开发者在使用。</p><p>此外，值得一提的是在Techo开发者大会上，腾讯云还宣布与全球最流行的Serverless开发平台<a href="https://link.zhihu.com/?target=http://Serverless.com">http://Serverless.com</a>达成战略合作，成为 <a href="https://link.zhihu.com/?target=http://Serverless.com">http://Serverless.com</a>的全球战略合作伙伴以及大中华区独家合作伙伴，双方将联手打造下一代无服务器计算开发平台——Serverless Cloud，该平台将覆盖从初始化、编码、调试、资源配置到部署发布，再到业务监控告警、故障排查的全生命周期。</p></li><li><p><strong>智能化则是未来云技术发展的第三大趋势。</strong></p><p>当硬件的成本越来越低，红利不断被释放，开发者也就能够越来越关注于应用本身，数字化时代的进程也就随之加快。这一过程中，数字化带来了海量数据的增长，对于算力的要求变得前所未见，人工智能也成为了开发者们必须关注和应用的技术。未来，云厂商也将会提供更多人工智能产品和能力给到开发者。</p></li><li><p>最后，邱跃鹏表示，<strong>截至目前，腾讯云已经服务了数百万开发者，给到开发者的资源扶持超过100亿元。未来，腾讯云将秉承开源、分享、创新的理念，与开发者一起共建生态。</strong></p></li></ol><ul><li><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3></li></ul><ol><li><p>  比如当年的农场偷菜，需要的是高写入低存储，是典型的高并发场景；无数人的青春回忆QQ相册则对存储的需求更加严格，如何降低存储成本成了当时的首要需求；而最近的国庆阅兵直播，腾讯视频加上腾讯云客户的国庆阅兵播放量大概在8000万左右，这种存在非常巨大的流量时间差异的波峰波谷情况则是一个偏接入的服务，为满足业务需求，腾讯选择自研CDN，并扛住了诸如国庆阅兵、LOL的S9直播等一系列重大时间节点的需求。</p></li><li><p>  <a href="https://www.chinaz.com/tags/tengxun.shtml">腾讯</a>官方数据显示，云开发的注册用户数达到56万，较去年同期增长1.5倍，服务超过100万开发者，日调用次数超过7亿。</p></li></ol><p>   除了小程序，云开发还支持公众号、Web应用、H5等，未来还将向App等更多端拓展，开发者可以一次开发、多端部署，显著提升开发效率、降低成本。</p><p>   “小程序·云开发”是<a href="https://www.chinaz.com/tags/tengxunyun.shtml">腾讯云</a>与微信联合推出的微信官方云原生开发平台，平台采用Serverless架构，集成腾讯云云函数、容器、云存储、云数据库等后端能力，让开发者无需自行搭建、运维服务器，即可在平台上开发、上线应用。</p><p>   腾讯云副总裁刘颖指出，过去一年多的实践数据显示，借助云开发，应用开发的人力成本可以降低50%、云资源使用成本可降低30%，“云开发集成了微信生态和腾讯云的各项能力，是腾讯C2B战略的技术抓手。”</p><hr><blockquote><p>参考：</p><p><a href="https://baijiahao.baidu.com/s?id=1697627586571942058&amp;wfr=spider&amp;for=pc">https://baijiahao.baidu.com/s?id=1697627586571942058&amp;wfr=spider&amp;for=pc</a></p><p><a href="https://www.chinaz.com/2020/1129/1211444.shtml">https://www.chinaz.com/2020/1129/1211444.shtml</a></p><p><a href="https://www.zhihu.com/question/22939537/answer/88517323">https://www.zhihu.com/question/22939537/answer/88517323</a></p></blockquote>]]></content>
     
@@ -38,9 +66,9 @@
     <category term="论文相关" scheme="http://tomgooo.github.io/categories/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="开发" scheme="http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/"/>
-    
     <category term="论文相关" scheme="http://tomgooo.github.io/tags/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/"/>
+    
+    <category term="开发" scheme="http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
