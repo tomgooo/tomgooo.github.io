@@ -6,7 +6,7 @@
   <link href="http://tomgooo.github.io/atom.xml" rel="self"/>
   
   <link href="http://tomgooo.github.io/"/>
-  <updated>2021-04-22T02:23:14.072Z</updated>
+  <updated>2021-04-23T03:10:03.991Z</updated>
   <id>http://tomgooo.github.io/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>题目来源及原始数据</title>
+    <link href="http://tomgooo.github.io/2021/04/23/About-paper/"/>
+    <id>http://tomgooo.github.io/2021/04/23/About-paper/</id>
+    <published>2021-04-23T02:46:51.000Z</published>
+    <updated>2021-04-23T03:10:03.991Z</updated>
+    
+    <content type="html"><![CDATA[<hr><ul><li><h3 id="题目来源"><a href="#题目来源" class="headerlink" title="题目来源"></a>题目来源</h3><p>  早前开发项目时，本人通过对实现web网站从部署到正式上线，检索到市面上提供的各色各类云服务，感受到云服务市场的蓬勃发展，意识到云技术相关的掌握与运用对于开发者来说在未来占据相当份量的地位，同时对新技术产生了浓厚的兴趣。例如，国际研究机构gartner发布2020年全球云计算IaaS市场追踪数据。2020年，全球云计算市场保持高速增长，IaaS市场规模达642.86亿美元，同比增长40.7%。腾讯官方数据显示，2020年基于云开发的注册用户数达到56万，较去年同期增长1.5倍，服务超过100万开发者，日调用次数超过7亿。根据上述几点认识，希望通过基于云服务平台的blog设计与实现，来实践运用云计算相关知识，实现自我提升。</p></li></ul><img src="/.io//04/23/About-paper/tencent-cloud.jpeg" class title="avatar"><ul><li><h3 id="腾讯"><a href="#腾讯" class="headerlink" title="腾讯"></a>腾讯</h3><p><strong>表示站在腾讯的角度看软硬件一体化、Serverless（无服务器）、智能化将是未来产业的发展方向。</strong></p><p><strong>腾讯大数据平台这10年来从以Hadoop为基础做离线计算的整合到如今自主开发Angel分布式机器学习平台日接入数据量35万亿条的技术演进历程。</strong></p></li><li><h3 id="云技术发展的三个趋势："><a href="#云技术发展的三个趋势：" class="headerlink" title="云技术发展的三个趋势："></a>云技术发展的三个趋势：</h3></li></ul><ol><li><p><strong>首先是软硬一体化。</strong></p><p><strong>随着云端所承载的业务规模越来越大，面向未来，更加高效的算力、更加低成本的存储一定是大势所趋，而在这一基础之上，硬件设计云原生也就是软硬件一体结合也成为了一个需要不断探索的方向</strong>。这对于开发者而言，可以为他们提供更坚实的基础设施平台以及更好的云计算性能并提高资源利用率。</p></li><li><p><strong>第二个是Serverless（无服务器），作为一种新型的软件设计架构正在快速崛起。</strong></p><p>作为继虚拟机、容器后的第三代通用计算平台，Serverless技术也一直是腾讯云原生的重点发力领域。它可以将开发者从繁琐、冗杂的开发配置工作中解放出来，不需要任何的基础设施建设、管理与运维，极大降低了开发门槛，而只需关注自己的业务逻辑。</p><p>以腾讯云和微信联合推出的“小程序·云开发”为例，目前它实现了小程序开发的Serverless，上线一年至今，已经有超过了50万的开发者在使用。</p><p>此外，值得一提的是在Techo开发者大会上，腾讯云还宣布与全球最流行的Serverless开发平台<a href="https://link.zhihu.com/?target=http://Serverless.com">http://Serverless.com</a>达成战略合作，成为 <a href="https://link.zhihu.com/?target=http://Serverless.com">http://Serverless.com</a>的全球战略合作伙伴以及大中华区独家合作伙伴，双方将联手打造下一代无服务器计算开发平台——Serverless Cloud，该平台将覆盖从初始化、编码、调试、资源配置到部署发布，再到业务监控告警、故障排查的全生命周期。</p></li><li><p><strong>智能化则是未来云技术发展的第三大趋势。</strong></p><p>当硬件的成本越来越低，红利不断被释放，开发者也就能够越来越关注于应用本身，数字化时代的进程也就随之加快。这一过程中，数字化带来了海量数据的增长，对于算力的要求变得前所未见，人工智能也成为了开发者们必须关注和应用的技术。未来，云厂商也将会提供更多人工智能产品和能力给到开发者。</p></li><li><p>最后，邱跃鹏表示，<strong>截至目前，腾讯云已经服务了数百万开发者，给到开发者的资源扶持超过100亿元。未来，腾讯云将秉承开源、分享、创新的理念，与开发者一起共建生态。</strong></p></li></ol><ul><li><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3></li></ul><ol><li><p>  比如当年的农场偷菜，需要的是高写入低存储，是典型的高并发场景；无数人的青春回忆QQ相册则对存储的需求更加严格，如何降低存储成本成了当时的首要需求；而最近的国庆阅兵直播，腾讯视频加上腾讯云客户的国庆阅兵播放量大概在8000万左右，这种存在非常巨大的流量时间差异的波峰波谷情况则是一个偏接入的服务，为满足业务需求，腾讯选择自研CDN，并扛住了诸如国庆阅兵、LOL的S9直播等一系列重大时间节点的需求。</p></li><li><p>  <a href="https://www.chinaz.com/tags/tengxun.shtml">腾讯</a>官方数据显示，云开发的注册用户数达到56万，较去年同期增长1.5倍，服务超过100万开发者，日调用次数超过7亿。</p></li></ol><p>   除了小程序，云开发还支持公众号、Web应用、H5等，未来还将向App等更多端拓展，开发者可以一次开发、多端部署，显著提升开发效率、降低成本。</p><p>   “小程序·云开发”是<a href="https://www.chinaz.com/tags/tengxunyun.shtml">腾讯云</a>与微信联合推出的微信官方云原生开发平台，平台采用Serverless架构，集成腾讯云云函数、容器、云存储、云数据库等后端能力，让开发者无需自行搭建、运维服务器，即可在平台上开发、上线应用。</p><p>   腾讯云副总裁刘颖指出，过去一年多的实践数据显示，借助云开发，应用开发的人力成本可以降低50%、云资源使用成本可降低30%，“云开发集成了微信生态和腾讯云的各项能力，是腾讯C2B战略的技术抓手。”</p><hr><blockquote><p>参考：</p><p><a href="https://baijiahao.baidu.com/s?id=1697627586571942058&amp;wfr=spider&amp;for=pc">https://baijiahao.baidu.com/s?id=1697627586571942058&amp;wfr=spider&amp;for=pc</a></p><p><a href="https://www.chinaz.com/2020/1129/1211444.shtml">https://www.chinaz.com/2020/1129/1211444.shtml</a></p><p><a href="https://www.zhihu.com/question/22939537/answer/88517323">https://www.zhihu.com/question/22939537/answer/88517323</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&quot;题目来源&quot;&gt;&lt;a href=&quot;#题目来源&quot; class=&quot;headerlink&quot; title=&quot;题目来源&quot;&gt;&lt;/a&gt;题目来源&lt;/h3&gt;&lt;p&gt;  早前开发项目时，本人通过对实现web网站从部署到正式上线，检索到市面上提供的各色各类云服务，</summary>
+      
+    
+    
+    
+    <category term="论文相关" scheme="http://tomgooo.github.io/categories/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/"/>
+    
+    
+    <category term="论文相关" scheme="http://tomgooo.github.io/tags/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/"/>
+    
+    <category term="开发" scheme="http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>本项目主要功能</title>
     <link href="http://tomgooo.github.io/2021/04/22/Main-function/"/>
     <id>http://tomgooo.github.io/2021/04/22/Main-function/</id>
     <published>2021-04-22T01:29:06.000Z</published>
-    <updated>2021-04-22T02:23:14.072Z</updated>
+    <updated>2021-04-23T02:35:15.292Z</updated>
     
     <content type="html"><![CDATA[<hr><table><thead><tr><th>主要功能模块</th><th></th></tr></thead><tbody><tr><td>文章模块</td><td>在主界面可以清晰地文章内容，进行评论；</td></tr><tr><td>后台管理模块</td><td>该模块可以编辑管理文章内容，管理网站页面，管理静态文件资源；</td></tr><tr><td>本地搜索模块</td><td>可以使用关键词检索文章内容</td></tr><tr><td>目录、标签模块</td><td>对文章进行分类，编排目录</td></tr><tr><td>数据可视化模块</td><td>对网站的基础数据进行图标等可视化分析</td></tr><tr><td>在线聊天模块</td><td>可以通过网站进行实时聊天</td></tr><tr><td></td><td></td></tr></tbody></table><p>1.评论<br>2.本地搜索<br>3.在线聊天gitter聊天室tomgoooinbg/tmgoroom<br>4.后台admin<br>5.后台2.0 bridge<br>6.submit数据可视化 《时间锚点记录图》<br>7.</p>]]></content>
     
@@ -49,7 +77,7 @@
     <category term="开发" scheme="http://tomgooo.github.io/categories/%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="development" scheme="http://tomgooo.github.io/tags/development/"/>
+    <category term="开发" scheme="http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
@@ -58,9 +86,9 @@
     <link href="http://tomgooo.github.io/2021/04/20/Update-document/"/>
     <id>http://tomgooo.github.io/2021/04/20/Update-document/</id>
     <published>2021-04-20T01:06:21.000Z</published>
-    <updated>2021-04-22T11:07:49.749Z</updated>
+    <updated>2021-04-22T11:18:18.327Z</updated>
     
-    <content type="html"><![CDATA[<hr><ul><li><h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a><strong>更新日志</strong></h3></li></ul><p>1.取消了文章转载证书的开启<br>2.网页已运行时间<br>3.字体大小<br>4.实现了主页显示文章创建日期以及更新日期的功能<br>5.导航菜单第一次重新编排<br>6.社交图标<br>7.主页顶部图，标签顶部图<br>8.已设置CDN为三份静态图片的地址，图片正常加载<br>9.侧边follow me 的链接<br>10.已设置submit日历，实现submit日期数据可视化<br>11.网站标签小图标已通过<a href="https://sm.ms/">https://sm.ms</a>  CDN外置图片链接设置，但不知为何导入public/img的文件clean后被删，同时导入.deploy_git/img后图标未消失，但生成的public文件依然不包含baokemeng.png<br>   *11.1网站标签小图标已通过jsdelivr CDN外置图片链接设置，同时在github图床中增添了新的1.1版本图片，导入了更多壁纸<br>12.创建标签页面，任何打上标签的文章都可以被检索<br>13.实现读取ip地址，时间，地点，所在地天气并集成为数据可视化界面<br>14.实现字数统计，并为其设定函数以换算为阅读所需时间<br>15.实现副标题“打字输入效果“，同时调整了以转义字符作为标点的展示方案<br>16.实现点击一次鼠标即可切换一次背景线条图形，并设立函数随机生成色彩三角几何线条<br>17.通过阿里提供的图标美化了序号的表现方式，同时设立对应函数<br>18.为两份开发文件默认设置增添了“categories”选项，重新配置了“目录”页<br>19.通过<a href="https://github.com/jerryc127/butterfly-plugins/tree/main/hexo-butterfly-artitalk">Jerry</a>配置了基于Leancloud云环境的说说页面Li……（最终因使用页面原因且无资金支持搭建云函数，拟放弃。若启用，参考<a href="https://www.heyiki.top/posts/c66dcdf5.html">教程1</a>，<a href="https://immmmm.com/bb-by-wechat-pro/">教程2</a>）</p><ul><li><h3 id="目标-amp-问题"><a href="#目标-amp-问题" class="headerlink" title="目标 &amp;问题"></a><strong>目标 &amp;问题</strong></h3></li></ul><table><thead><tr><th>目标 &amp;问题</th></tr></thead><tbody><tr><td>a.文章转载证书没有关闭   ×</td></tr><tr><td>b.微信社交图标没有跳转链接（拟在网络环境安全的图床上传微信二维码）  ×</td></tr><tr><td>c.日历因为网页比例高而显示不全  ×（无法）</td></tr><tr><td>d.顶部导航栏标签跳转错误 ✔、未设置目录  ✔</td></tr><tr><td>e.文章封面无法更换  ×</td></tr><tr><td>f.网站标签小图标未设置  ✔</td></tr><tr><td>g.设置哔哩哔哩链接与图标 ×（链接已设置，图标无法找到适合的）</td></tr><tr><td>h.未设置多个图片的CDN地址以供选择 ✔</td></tr><tr><td>I.未设置语雀云端富文本编写方式   ×</td></tr><tr><td>j.设置“说说动态“  ×（没时间，没钱，放弃）</td></tr><tr><td>k.设置“格言”  ✔</td></tr><tr><td>l.文章字数  ✔</td></tr><tr><td>m.数据可视化 × <a href="https://weilining.github.io/230.html">https://weilining.github.io/230.html</a></td></tr><tr><td>n.思维导图数据可视化编辑  <a href="https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/">https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/</a>  ×（不可靠）</td></tr><tr><td>o.内置数学符号渲染，公式输入！！<a href="http://www.wiris.com/editor/demo/en/developers">http://www.wiris.com/editor/demo/en/developers</a>  ×</td></tr><tr><td>p.文章统计图表数据可视化柱形图、折线图、饼状图  (注意更改前备份)   ×</td></tr><tr><td>q.内嵌bilibili视频播放器  ×</td></tr><tr><td>r.导入magnet、swiper实现<a href="https://zfe.space/post/hexo-magnet.html">https://zfe.space/post/hexo-magnet.html</a>  tags和置顶排列  ×</td></tr><tr><td>s.</td></tr><tr><td>t.</td></tr><tr><td>u.</td></tr></tbody></table><ul><li><h3 id="解决："><a href="#解决：" class="headerlink" title="解决："></a>解决：</h3><p>部分CDN图片链接如下</p><ul><li>太空红丝带图 <a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/space.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/space.jpg</a></li></ul></li><li><p><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun.png</a></p><ul><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun2.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun2.jpg</a></li></ul></li><li><p>（星际穿越）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar.png</a></p><ul><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar2.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar2.png</a></li><li>（网页标签图）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Plant.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Plant.png</a></li><li>（宇航员cg）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png</a></li><li>（星云cg）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/galaxy.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/galaxy.png</a></li><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/jupyter.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/jupyter.jpg</a></li><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/moon.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/moon.jpg</a></li><li>(头像)<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.2/wang.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.2/wang.png</a></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<hr><ul><li><h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a><strong>更新日志</strong></h3></li></ul><p>1.取消了文章转载证书的开启<br>2.网页已运行时间<br>3.字体大小<br>4.实现了主页显示文章创建日期以及更新日期的功能<br>5.导航菜单第一次重新编排<br>6.社交图标<br>7.主页顶部图，标签顶部图<br>8.已设置CDN为三份静态图片的地址，图片正常加载<br>9.侧边follow me 的链接<br>10.已设置submit日历，实现submit日期数据可视化<br>11.网站标签小图标已通过<a href="https://sm.ms/">https://sm.ms</a>  CDN外置图片链接设置，但不知为何导入public/img的文件clean后被删，同时导入.deploy_git/img后图标未消失，但生成的public文件依然不包含baokemeng.png<br>   *11.1网站标签小图标已通过jsdelivr CDN外置图片链接设置，同时在github图床中增添了新的1.1版本图片，导入了更多壁纸<br>12.创建标签页面，任何打上标签的文章都可以被检索<br>13.实现读取ip地址，时间，地点，所在地天气并集成为数据可视化界面<br>14.实现字数统计，并为其设定函数以换算为阅读所需时间<br>15.实现副标题“打字输入效果“，同时调整了以转义字符作为标点的展示方案<br>16.实现点击一次鼠标即可切换一次背景线条图形，并设立函数随机生成色彩三角几何线条<br>17.通过阿里提供的图标美化了序号的表现方式，同时设立对应函数<br>18.为两份开发文件默认设置增添了“categories”选项，重新配置了“目录”页<br>19.通过<a href="https://github.com/jerryc127/butterfly-plugins/tree/main/hexo-butterfly-artitalk">Jerry</a>配置了基于Leancloud云环境的说说页面Li……（最终因使用页面原因且无资金支持搭建云函数，拟放弃。若启用，参考<a href="https://www.heyiki.top/posts/c66dcdf5.html">教程1</a>，<a href="https://immmmm.com/bb-by-wechat-pro/">教程2</a>）</p><ul><li><h3 id="目标-amp-问题"><a href="#目标-amp-问题" class="headerlink" title="目标 &amp;问题"></a><strong>目标 &amp;问题</strong></h3></li></ul><table><thead><tr><th>目标 &amp;问题</th></tr></thead><tbody><tr><td>a.文章转载证书没有关闭   ×</td></tr><tr><td>b.微信社交图标没有跳转链接（拟在网络环境安全的图床上传微信二维码，现暂不建议启用）  ×</td></tr><tr><td>c.日历因为网页比例高而显示不全  ×（无法）</td></tr><tr><td>d.顶部导航栏标签跳转错误 ✔、未设置目录  ✔</td></tr><tr><td>e.文章封面无法更换  ×</td></tr><tr><td>f.网站标签小图标未设置  ✔</td></tr><tr><td>g.设置哔哩哔哩链接与图标 ×（链接已设置，图标无法找到统一的）</td></tr><tr><td>h.未设置多个图片的CDN地址以供选择 ✔</td></tr><tr><td>I.未设置语雀云端富文本编写方式   ×</td></tr><tr><td>j.设置“说说动态“  ×（没时间，没钱，放弃）</td></tr><tr><td>k.设置“格言”  ✔</td></tr><tr><td>l.文章字数  ✔</td></tr><tr><td>m.数据可视化 × <a href="https://weilining.github.io/230.html">https://weilining.github.io/230.html</a></td></tr><tr><td>n.思维导图数据可视化编辑  <a href="https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/">https://bingwong.org/HEXO/%E5%9C%A8hexo%E4%B8%8A%E4%BD%BF%E7%94%A8mermaid%E6%B5%81%E7%A8%8B%E5%9B%BE/</a>  ×（不可靠）</td></tr><tr><td>o.内置数学符号渲染，公式输入！！<a href="http://www.wiris.com/editor/demo/en/developers">http://www.wiris.com/editor/demo/en/developers</a>  ×</td></tr><tr><td>p.文章统计图表数据可视化柱形图、折线图、饼状图  (注意更改前备份)   ×</td></tr><tr><td>q.内嵌bilibili视频播放器  ×</td></tr><tr><td>r.导入magnet、swiper实现<a href="https://zfe.space/post/hexo-magnet.html">https://zfe.space/post/hexo-magnet.html</a>  tags和置顶排列  ×</td></tr><tr><td>s.</td></tr><tr><td>t.</td></tr><tr><td>u.</td></tr></tbody></table><ul><li><h3 id="解决："><a href="#解决：" class="headerlink" title="解决："></a>解决：</h3><p>部分CDN图片链接如下</p><ul><li>太空红丝带图 <a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/space.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/space.jpg</a></li></ul></li><li><p><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun.png</a></p><ul><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun2.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.0/sun2.jpg</a></li></ul></li><li><p>（星际穿越）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar.png</a></p><ul><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar2.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Interstellar2.png</a></li><li>（网页标签图）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Plant.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/Plant.png</a></li><li>（宇航员cg）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/astronaut.png</a></li><li>（星云cg）<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/galaxy.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/galaxy.png</a></li><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/jupyter.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/jupyter.jpg</a></li><li><a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/moon.jpg">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.1/moon.jpg</a></li><li>(头像)<a href="https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.2/wang.png">https://cdn.jsdelivr.net/gh/tomgooo/tomgooo-image@1.2/wang.png</a></li></ul></li></ul>]]></content>
     
     
       
@@ -155,7 +183,7 @@
     <link href="http://tomgooo.github.io/2021/04/17/test4/"/>
     <id>http://tomgooo.github.io/2021/04/17/test4/</id>
     <published>2021-04-17T14:54:42.000Z</published>
-    <updated>2021-04-17T15:11:53.354Z</updated>
+    <updated>2021-04-23T02:34:38.899Z</updated>
     
     <content type="html"><![CDATA[<p> 阿斯蒂芬</p><img src="/.io//test4\wang.jpeg" style="zoom:50%;">]]></content>
     
@@ -169,6 +197,8 @@
       
     
     
+    
+    <category term="test" scheme="http://tomgooo.github.io/categories/test/"/>
     
     
     <category term="test" scheme="http://tomgooo.github.io/tags/test/"/>
@@ -224,7 +254,7 @@
     <link href="http://tomgooo.github.io/2021/04/14/test1/"/>
     <id>http://tomgooo.github.io/2021/04/14/test1/</id>
     <published>2021-04-14T03:04:38.000Z</published>
-    <updated>2021-04-17T14:28:43.679Z</updated>
+    <updated>2021-04-23T02:35:00.061Z</updated>
     
     <content type="html"><![CDATA[<hr><p>   阿斯顿发送到法尔范 阿斯顿发额啊撒</p><blockquote><ol><li>奥尔菲斯的封面 阿斯顿发额</li></ol></blockquote><p> 阿尔发生</p><blockquote><ol><li>阿斯顿发违法</li><li>阿斯顿发文</li></ol></blockquote><p><img src="/.io//blog\blog\source_posts\1.jpg"></p><p>胜多负少发阿瑟发奥恩阿斯顿发额</p><table><thead><tr><th>卢本伟</th><th>手动阀</th><th>大风撒</th></tr></thead><tbody><tr><td>阿斯蒂芬</td><td>都访问</td><td>染发锕地方暗示</td></tr><tr><td>全微分</td><td>法尔范</td><td>Freya</td></tr><tr><td>仁丰围</td><td>大卫</td><td>飞娃儿打算</td></tr></tbody></table>]]></content>
     
@@ -246,6 +276,8 @@
     
     
     
+    <category term="test" scheme="http://tomgooo.github.io/categories/test/"/>
+    
     
     <category term="哈哈哈" scheme="http://tomgooo.github.io/tags/%E5%93%88%E5%93%88%E5%93%88/"/>
     
@@ -256,11 +288,15 @@
     <link href="http://tomgooo.github.io/2021/04/12/test-my-site/"/>
     <id>http://tomgooo.github.io/2021/04/12/test-my-site/</id>
     <published>2021-04-12T07:29:33.000Z</published>
-    <updated>2021-04-12T07:29:33.859Z</updated>
+    <updated>2021-04-23T02:33:25.749Z</updated>
     
     
     
     
+    <category term="test" scheme="http://tomgooo.github.io/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://tomgooo.github.io/tags/test/"/>
     
   </entry>
   
