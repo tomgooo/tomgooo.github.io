@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tomgooo.github.io/2021/04/25/graduation/</loc>
+    <loc>http://tomgooo.github.io/2021/04/20/Update-document/</loc>
     
     <lastmod>2021-04-25</lastmod>
     
@@ -16,14 +16,21 @@
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/2021/04/23/About-paper/</loc>
+    <loc>http://tomgooo.github.io/2021/04/25/Video-player/</loc>
     
     <lastmod>2021-04-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/2021/04/20/Update-document/</loc>
+    <loc>http://tomgooo.github.io/2021/04/25/graduation/</loc>
+    
+    <lastmod>2021-04-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/2021/04/23/About-paper/</loc>
     
     <lastmod>2021-04-25</lastmod>
     
@@ -130,14 +137,14 @@
 
   
   <url>
-    <loc>http://tomgooo.github.io/tags/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</loc>
+    <loc>http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
+    <loc>http://tomgooo.github.io/tags/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -158,20 +165,6 @@
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/tags/%E5%94%B1%E6%AD%8C/</loc>
-    <lastmod>2021-04-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://tomgooo.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-04-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://tomgooo.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
@@ -180,6 +173,20 @@
   
   <url>
     <loc>http://tomgooo.github.io/tags/%E8%80%83%E7%A0%94/</loc>
+    <lastmod>2021-04-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/tags/%E5%94%B1%E6%AD%8C/</loc>
+    <lastmod>2021-04-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://tomgooo.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -202,6 +209,13 @@
 
   
   <url>
+    <loc>http://tomgooo.github.io/categories/%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-04-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://tomgooo.github.io/categories/%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
@@ -209,7 +223,7 @@
   </url>
   
   <url>
-    <loc>http://tomgooo.github.io/categories/%E5%BC%80%E5%8F%91/</loc>
+    <loc>http://tomgooo.github.io/categories/%E6%AF%95%E4%B8%9A%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -224,13 +238,6 @@
   
   <url>
     <loc>http://tomgooo.github.io/categories/%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3/</loc>
-    <lastmod>2021-04-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://tomgooo.github.io/categories/%E6%AF%95%E4%B8%9A%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2021-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
