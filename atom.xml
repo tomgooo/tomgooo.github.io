@@ -6,7 +6,7 @@
   <link href="http://tomgooo.github.io/atom.xml" rel="self"/>
   
   <link href="http://tomgooo.github.io/"/>
-  <updated>2021-05-07T02:28:27.232Z</updated>
+  <updated>2021-05-23T05:56:13.971Z</updated>
   <id>http://tomgooo.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>白色污染对精神的危害</title>
+    <link href="http://tomgooo.github.io/2021/05/23/white-pollution/"/>
+    <id>http://tomgooo.github.io/2021/05/23/white-pollution/</id>
+    <published>2021-05-23T05:49:36.000Z</published>
+    <updated>2021-05-23T05:56:13.971Z</updated>
+    
+    <content type="html"><![CDATA[<hr><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=290634193&bvid=BV1sf4y1Y7zh&cid=342383099&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=290634</summary>
+      
+    
+    
+    
+    <category term="黄金时代" scheme="http://tomgooo.github.io/categories/%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3/"/>
+    
+    
+    <category term="生活" scheme="http://tomgooo.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Typora绘图</title>
@@ -531,29 +556,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>test2</title>
-    <link href="http://tomgooo.github.io/2021/04/15/test2/"/>
-    <id>http://tomgooo.github.io/2021/04/15/test2/</id>
-    <published>2021-04-15T09:05:00.000Z</published>
-    <updated>2021-04-17T14:18:23.223Z</updated>
-    
-    <content type="html"><![CDATA[<p>just for test you know that?</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;just for test you know that?&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="test" scheme="http://tomgooo.github.io/tags/test/"/>
     
   </entry>
   
